@@ -1,0 +1,473 @@
+﻿SL,ITEMID,Medicine Name,BRAND,Generic Name,SEGMENT,Strength,Category Name,GPMID,GPMNAME,Box Size,UNIT/S PER STRIP,NO OF STRIP,Unit,Manufacturer Name,Manufacturer Price,Sale Price
+1,1530,ALADAY 5ML OPT SOL,ALADAY,OLOPATADINE,Ophthalmic Products,0,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+2,1524,ALADAY DS 5ML OPT SOL,ALADAY DS,OLOPATADINE,Ophthalmic Products,0,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+3,1807,ALADAY MAX 5ML OPT SOL,ALADAY MAX,OLOPATADINE,Ophthalmic Products,0.007,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+4,1614,BINZOTIM OPT SUS 5ML,BINZOTIM,BRINZOLAMIDE + TIMOLOL,Ophthalmic Products,NULL,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+5,1527,DEXTOR C 5ML OPT SOL,DEXTOR OPT,DEXAMETHASONE PHOSPHATE + CHLORAMPHENICOL,Ophthalmic Products,0,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+6,1525,FRESHTEAR 10ML OPT SOL,FRESHTEAR,POLYETHYLENE GLYCOL + PROPYLENE GLYCOL,Ophthalmic Products,0,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+7,1630,FRESHTEAR P 10ML OPT SOL,FRESHTEAR P,POLYETHYLENE GLYCOL 0.4% + PROPYLENE GLYCOL 0.3% WITH PURITE,Ophthalmic Products,NULL,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+8,1531,LEVOMAX 5ML OPT SOL,LEVOMAX OS,LEVOFLOXACIN,Ophthalmic Products,0,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+9,1608,LEVOMAX TS 5ML OPT SOL,LEVOMAX OS,LEVOFLOXACIN 1.5%,Ophthalmic Products,NULL,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+10,1596,LOTREL T OPT SUS 5ML,LOTREL T,LOTEPRDNOL ETABONATE .5% & TOBRAMYCIN 0.3%,Ophthalmic Products,NULL,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+11,1537,ROMFEN 5ML OPT SOL,ROMFEN,BROMFENAC,Ophthalmic Products,0,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+12,1668,ROMFEN S 5ML OPT SOL,ROMFEN,BROMFENAC,Ophthalmic Products,0.0007,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+13,1526,VISOMOX 5ML OPT SOL,VISOMOX OPT,MOXIFLOXACIN,Ophthalmic Products,0,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+14,1760,VISOVIT CAP 30S,VISOVIT,ASCORBIC ACID+VITAMIN E+ZINC OXIDE+COPPER+LUTEIN,Ophthalmic Products,60mg+30 I.U.+15mg+2m,Capsule,3048,Dr. Shafiqul Mawla,30,6,5,pcs,Eskayef,1,1
+15,1724,ZYMARIN 0.5% 5ML OPT SOL,ZYMARIN,GATIFLOXACIN,Ophthalmic Products,0.005,Ophthalmic Solution,3048,Dr. Shafiqul Mawla,1,1,1,ml,Eskayef,1,1
+16,1195,AMBOTEN PD DROP 15ML,AMBOTEN,AMBROXOL HYDROCHLORIDE,Expectorant & Antitussive,0,Paediatric Drop,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+17,1194,AMBOTEN SYP 100ML,AMBOTEN,AMBROXOL HYDROCHLORIDE,Expectorant & Antitussive,0,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+18,1107,AROCEF 500MG CAP 24S,AROCEF,CEFADROXIL MONOHYDRATE,Antibiotics,0,Capsule,3220,Mr. A. H. M. Mazharul Islam,24,4,6,pcs,Eskayef,1,1
+19,1108,AROCEF SUS 100ML,AROCEF,CEFADROXIL MONOHYDRATE,Antibiotics,0,Dry Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+20,1841,AROTIDE 100 INHALATION CAPSULE,AROTIDE,SALMETEROL 50MCG & FLUTICASONE PROPIONATE 100MCG,Respiratory Care Products,,Capsule,3220,Mr. A. H. M. Mazharul Islam,30,10,3,pcs,Eskayef,1,1
+21,1842,AROTIDE 250 INHALATION CAPSULE,AROTIDE,SALMETEROL 50MCG & FLUTICASONE PROPIONATE 100MCG,Respiratory Care Products,Salmeterol 50mcg + F,Capsule,3220,Mr. A. H. M. Mazharul Islam,30,10,3,pcs,Eskayef,1,1
+22,1732,AROTIDE 250 INHALER 1S,AROTIDE,SALMETEROL & FLUTICASONE PROPIONATE,Respiratory Care Products,25mcg+250mcg,Inhaler,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+23,1843,AROTIDE 500 INHALATION CAPSULE,AROTIDE,SALMETEROL 50MCG & FLUTICASONE PROPIONATE 100MCG,Respiratory Care Products,Salmeterol 50mcg + F,Capsule,3220,Mr. A. H. M. Mazharul Islam,30,10,3,pcs,Eskayef,1,1
+24,1719,BRIZY 100ML SYRUP,BRIZY,LEVOSALBUTAMOL,Respiratory Care Products,100ml,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+25,1296,BRIZY 1MG TAB 50S,BRIZY,LEVOSALBUTAMOL SULFATE,Respiratory Care Products,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,50,10,5,pcs,Eskayef,1,1
+26,1297,BRIZY 2MG TAB 50S,BRIZY,LEVOSALBUTAMOL SULFATE,Respiratory Care Products,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,50,10,5,pcs,Eskayef,1,1
+27,1306,BRIZY SYRUP 60ML,BRIZY,LEVOSALBUTAMOL SULFATE,Respiratory Care Products,0,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+28,1520,CARBOLIN DS 100ML SUS,CARBOLIN,CARBOCISTEINE,Expectorant & Antitussive,0,Dry Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+29,1625,CEFATEN 400MG CAP 8S,CEFATEN,CEFTIBUTEN DIHYDRATE,Antibiotics,NULL,Capsule,3220,Mr. A. H. M. Mazharul Islam,8,8,1,pcs,Eskayef,1,1
+30,1104,CEFLON DS 100ML,CEFLON,CEFACLOR MONOHYDRATE,Antibiotics,0,Dry Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+31,1122,CEFLON PD 15 ML,CEFLON,CEFACLOR MONOHYDRATE,Antibiotics,0,Paediatric Drop,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+32,1804,CEFOJECT 1GM IV INJ 1S,CEFOJECT,CEFOPERAZONE,Antibiotics,1gm,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+33,1826,CILANEM IV INJ,CILANEM,(IMIPENEM 500MG+CILASTATIN 50MG)/VIAL,Antibiotics,Imipenem 500mg+Cilas,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+34,1692,DEXPOFEN 100ML SYP,DEXPOFEN,DEXTROMETHORPHAN HYDROMIDE,Expectorant & Antitussive,Dextromethorphan hyd,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+35,1717,DEXPOTEN PLUS 100ML SYRUP,DEXPOTEN PLUS,DEXTROMETHORPHAN+PHENYLEPHRINE+TRIPROLIDINE,Expectorant & Antitussive,Dextromethorphan 20m,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+36,1460,DEXTOR TAB 0.5MG,DEXTOR,DEXAMETHASONE,Ophthalmic Products,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,200,10,20,pcs,Eskayef,1,1
+37,1155,DILATOR ORAL SOL 60ML,DILATOR,BAMBUTEROL HYDROCHLORIDE,Respiratory Care Products,0,Oral Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+38,1123,DILATOR TAB 10MG 100S,DILATOR,BAMBUTEROL HYDROCHLORIDE,Respiratory Care Products,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,100,10,10,pcs,Eskayef,1,1
+39,1146,DILATOR TAB 20MG 100S,DILATOR,BAMBUTEROL HYDROCHLORIDE,Respiratory Care Products,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,100,10,10,pcs,Eskayef,1,1
+40,1504,DORIPEN 500 MG IV INJ 1S,DORIPEN,DORIPENEM,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+41,1299,HANDIRUB 200ML SOL,HANDIRUB,CHLORHEXIDINE GLUCONATE AND ISOPROPYL ALCOHOL,Antiseptics & Disinfectants,0,Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+42,1300,HANDIRUB 50ML SOL,HANDIRUB,CHLORHEXIDINE GLUCONATE AND ISOPROPYL ALCOHOL,Antiseptics & Disinfectants,0,Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+43,1819,HANDISAFE ANTISEPTIC SOLUTION 200ML,HANDISAFE,ETHANOL (96%),Antiseptics & Disinfectants,80% v/v,Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+44,1808,HANDISANITIZER 200ML SOLUTION,HANDISANITIZER,ISOPROPYL ALCOHOL,Antiseptics & Disinfectants,75% v/v,Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+45,1256,HUNNY SYP 100ML,HUNNY,LIQUID SUCROSE + GLYCEROL,Expectorant & Antitussive,0,Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+46,1652,KEFUCLAV 250MG TAB 16S,KEFUCLAV,CEFUROXIME+CLAVULANIC ACID,Antibiotics,16,Tablet,3220,Mr. A. H. M. Mazharul Islam,16,8,2,pcs,Eskayef,1,1
+47,1653,KEFUCLAV 500MG TAB 8S,KEFUCLAV,CEFUROXIME+CLAVULANIC ACID,Antibiotics,8,Tablet,3220,Mr. A. H. M. Mazharul Islam,8,8,1,pcs,Eskayef,1,1
+48,1678,KEFUCLAV 70ML SUSPENSION  PFS,KEFUCLAV,CEFUROXIME AXETIL USP & DILUTED POTASSIUM CLAVULANATE BP,Antibiotics,NULL,Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+49,1392,KILMAX 1.5GM IV INJ,KILMAX,CEFUROXIME,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+50,1375,KILMAX 125MG TAB 14S,KILMAX,CEFUROXIME AXETIL,Antibiotics,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,14,7,2,pcs,Eskayef,1,1
+51,1580,KILMAX 250MG TAB 16S,KILMAX,CEFUROXIME AXETIL,Antibiotics,NULL,Tablet,3220,Mr. A. H. M. Mazharul Islam,16,8,2,pcs,Eskayef,1,1
+52,1581,KILMAX 500MG TAB 8S,KILMAX,CEFUROXIME AXETIL,Antibiotics,NULL,Tablet,3220,Mr. A. H. M. Mazharul Islam,8,8,1,pcs,Eskayef,1,1
+53,1367,KILMAX 70ML PFS,KILMAX,CEFUROXIME AXETIL,Antibiotics,0,Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+54,1366,KILMAX 750MG IV IM INJ,KILMAX,CEFUROXIME,Antibiotics,750mg,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+55,1818,LUMONA 10MG FC TAB 42S,LUMONA,MONTELUKAST,Respiratory Care Products,10mg,Tablet,3220,Mr. A. H. M. Mazharul Islam,42,14,3,pcs,Eskayef,1,1
+56,1502,LUMONA 10MG TAB 30S,LUMONA,MONTELUKAST SODIUM,Respiratory Care Products,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,30,10,3,pcs,Eskayef,1,1
+57,1622,LUMONA 4 FT FLASH TAB 30S,LUMONA,MONTELUKAST SODIUM,Respiratory Care Products,NULL,Tablet,3220,Mr. A. H. M. Mazharul Islam,30,10,3,pcs,Eskayef,1,1
+58,1448,LUMONA 4MG SACHET 30S,LUMONA,MONTELUKAST SODIUM,Respiratory Care Products,0,Suspension,3220,Mr. A. H. M. Mazharul Islam,30,1,30,pcs,Eskayef,1,1
+59,1623,LUMONA 5 FT FLASH TAB 30S,LUMONA,MONTELUKAST SODIUM,Respiratory Care Products,NULL,Tablet,3220,Mr. A. H. M. Mazharul Islam,30,10,3,pcs,Eskayef,1,1
+60,1480,MEROJECT 1GM IV INJ 1S,MEROJECT,MEROPENEM,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+61,1479,MEROJECT 500MG IV INJ 1S,MEROJECT,MEROPENEM,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+62,1618,MIRATEN 100ML SYP,MIRATEN,BUTAMIRATE CITRATE INN,Expectorant & Antitussive,NULL,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+63,1671,MIRATEN 15ML PD DROPS,MIRATEN,BUTAMIRATE CITRATE INN,Expectorant & Antitussive,NULL,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+64,1583,MUCOTEN 100ML SYP,MUCOTEN,BROMHEXINE,Expectorant & Antitussive,NULL,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+65,1793,NYCOF 100ML SYRUP,NYCOF,GUAIFENESIN+DIPHENHYDRAMINE HYDROCHLORIDE+LEVOMENTHOL,Expectorant & Antitussive,(Guaifenesin 2gm+Dip,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+66,1792,NYCOF D 100ML SYRUP,NYCOF D,DEXTROMETHORPHAN HYDROBROMIDE+DIPHENHYDRAMINE HYDROCHLORIDE+LEVOMENTHOL,Expectorant & Antitussive,Dextromethorphan 0.1,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+67,1616,POVIDON 100ML SOL,POVIDON,POVIDONE IODINE,Antiseptics & Disinfectants,NULL,Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+68,1688,POVIDON 1LITER SOLUTION,POVIDON,POVIDONE IODINE,Antiseptics & Disinfectants,0.1,Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+69,1681,POVIDON 20GM OINTMENT,POVIDON,POVIDONE IODINE,Antiseptics & Disinfectants,NULL,Ointment,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+70,1658,POVIDON 30 ML SOL,POVIDON,POVIDONE IODINE,Antiseptics & Disinfectants,NULL,Solution,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+71,1462,PRED 10MG TAB 100S,PRED,PREDNISOLONE,Hormones,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,100,10,10,pcs,Eskayef,1,1
+72,1463,PRED 20MG TAB 50S,PRED,PREDNISOLONE,Hormones,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,50,10,5,pcs,Eskayef,1,1
+73,1461,PRED 5MG TAB 200S,PRED,PREDNISOLONE,Hormones,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,200,10,20,pcs,Eskayef,1,1
+74,1800,RASHCURE 5% 50GM OINTMENT,RASHCURE,DEXPANTHENOL,Skin Care Products,0.05,Ointment,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+75,1493,ROXIM 200MG CAP 16S,ROXIM,CEFIXIM,Antibiotics,0,Capsule,3220,Mr. A. H. M. Mazharul Islam,16,8,2,pcs,Eskayef,1,1
+76,1759,ROXIM 400MG CAP 10S,ROXIM,CEFIXIME,Antibiotics,400mg,Capsule,3220,Mr. A. H. M. Mazharul Islam,10,10,1,pcs,Eskayef,1,1
+77,1131,ROXIM 50ML SUS,ROXIM,CEFIXIM,Antibiotics,0,Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+78,1455,ROXIM 75ML DRY SUS L,ROXIM,CEFIXIM,Antibiotics,NULL,Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+79,1592,ROXIM PD DROPS,ROXIM,CEFIXIME,Antibiotics,NULL,Paediatric Drop,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+80,1453,ROXIM PFS 30ML,ROXIM,CEFIXIM,Antibiotics,0,Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+81,1454,ROXIM XL PFS 60ML,ROXIM,CEFIXIM,Antibiotics,0,Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+82,1731,SALOMAX INHALER,SALOMAX,SALBUTAMOL,Respiratory Care Products,100mcg,Inhaler,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+83,1026,SK CEF 250MG CAP 48S,SK-CEF,CEPHRADINE MONOHYDRATE,Antibiotics,0,Capsule,3220,Mr. A. H. M. Mazharul Islam,48,6,8,pcs,Eskayef,1,1
+84,1447,SK CEF 500MG CAP 30S,SK-CEF,CEPHRADINE MONOHYDRATE,Antibiotics,0,Capsule,3220,Mr. A. H. M. Mazharul Islam,30,6,5,pcs,Eskayef,1,1
+85,1157,SK CEF DRY SUS 100ML,SK-CEF,CEPHRADINE MONOHYDRATE,Antibiotics,0,Dry Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+86,1156,SK CEF DRY SUS 60ML,SK-CEF,CEPHRADINE MONOHYDRATE,Antibiotics,0,Dry Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+87,1206,SK CEF IM IV INJ 1GM 1S,SK-CEF,CEPHRADINE MONOHYDRATE,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+88,1169,SK CEF IM IV INJ 500MG 1S,SK-CEF,CEPHRADINE MONOHYDRATE,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+89,1048,SK CEF PD DROP,SK-CEF,CEPHRADINE MONOHYDRATE,Antibiotics,0,Paediatric Drop,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+90,1028,SK CEF SUS 100ML,SK-CEF,CEPHRADINE MONOHYDRATE,Antibiotics,0,Dry Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+91,1149,STARIN 50ML SUS,STARIN,CEFPODOXIME PROXETIL,Antibiotics,0,Dry Suspension,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+92,1211,STARIN PD 15ML,STARIN,CEFPODOXIME PROXETIL,Antibiotics,0,Paediatric Drop,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+93,1514,TAMEN 100ML IV INFUSION,TAMEN,PARACETAMOL,Analgesic & Antipyretic,0,Infusion,3220,Mr. A. H. M. Mazharul Islam,1,1,1,Infusion,Eskayef,1,1
+94,1430,TAMEN 500MG TAB 200S,TAMEN,PARACETAMOL,Analgesic & Antipyretic,0,Tablet,3220,Mr. A. H. M. Mazharul Islam,200,20,10,pcs,Eskayef,1,1
+95,1470,TAMEN SYP 100ML,TAMEN,PARACETAMOL,Analgesic & Antipyretic,0,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+96,1451,TAMEN SYP 60ML,TAMEN,PARACETAMOL,Analgesic & Antipyretic,0,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+97,1735,TAMEN TURBO TAB 120S,TAMEN,PARACETAMOL + CAFFEINE,Analgesic & Antipyretic,Paracetamol 500mg +,Tablet,3220,Mr. A. H. M. Mazharul Islam,120,10,12,pcs,Eskayef,1,1
+98,1566,TAMEN XR 665MG TAB 100S,TAMEN,PARACETAMOL,Analgesic & Antipyretic,NULL,Tablet,3220,Mr. A. H. M. Mazharul Islam,100,10,10,pcs,Eskayef,1,1
+99,1491,TAZIMAX 1GM IM IV INJ 1S,TAZIMAX,CEFTAZIDIME,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+100,1492,TAZIMAX 250MG IM IV INJ 1S,TAZIMAX,CEFTAZIDIME,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+101,1399,TRIJECT 500MG IM ING 1S,TRIJECT,CEFTRIAXONE,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+102,1419,TRIJECT 500MG IV INJ 1S,TRIJECT,CEFTRIAXONE,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+103,1401,TRIJECT IM INJ 1GM 1S,TRIJECT,CEFTRIAXONE,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+104,1403,TRIJECT IM INJ 250MG 1S,TRIJECT,CEFTRIAXONE,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+105,1391,TRIJECT IV INJ 1GM 1S,TRIJECT,CEFTRIAXONE,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+106,1390,TRIJECT IV INJ 2GM 1S,TRIJECT,CEFTRIAXONE,Antibiotics,0,Injection,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+107,1560,TRIOCLAV 200MG TAB 7S,TRIOCLAV,ACECLOFENAC,Antibiotics,7,Tablet,3220,Mr. A. H. M. Mazharul Islam,7,7,1,pcs,Eskayef,1,1
+108,1844,TURBOHALER,TURBOHALER,DRY POWDER INHALATION DEVICE,Respiratory Care Products,N/A,Inhaler,3220,Mr. A. H. M. Mazharul Islam,1,1,1,pcs,Eskayef,1,1
+109,1734,TUSCOF 100ML SYP,TUSCOF,GUAIFENESIN+DEXTROMETHORPHAN HYDROBROMIDE+LEVOMENTHOL,Expectorant & Antitussive,Guaifenesin 200mg +D,Syrup,3220,Mr. A. H. M. Mazharul Islam,1,1,1,ml,Eskayef,1,1
+110,1679,VENTOFIL 200MG TAB 30S,VENTOFIL,DOXOPHYLLINE,Respiratory Care Products,200mg,Tablet,3220,Mr. A. H. M. Mazharul Islam,30,10,3,pcs,Eskayef,1,1
+111,1680,VENTOFIL 400MG TAB 30S,VENTOFIL,DOXOPHYLLINE,Respiratory Care Products,400mg,Tablet,3220,Mr. A. H. M. Mazharul Islam,30,10,3,pcs,Eskayef,1,1
+112,1706,AUGMENT 1.2G IV INJ 1S,AUGMENT,AMOXICILLIN & CLAVULANIC ACID,Antibiotics,Amoxicillin 1g + Cla,Injection,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,ml,Eskayef,1,1
+113,1696,AUGMENT 100ML PFS,AUGMENT,AMOXICILLIN & CLAVULANIC ACID,Antibiotics,125mg/5ml + 31.25mg/,Dry Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+114,1695,AUGMENT 1GM TAB 12S,AUGMENT,AMOXICILLIN & CLAVULANIC ACID,Antibiotics,875mg + 125mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,12,6,2,pcs,Eskayef,1,1
+115,1693,AUGMENT 375 TAB 18S,AUGMENT,AMOXICILLIN & CLAVULANIC ACID,Antibiotics,250mg + 125mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,18,6,3,pcs,Eskayef,1,1
+116,1694,AUGMENT 625 TAB 18S,AUGMENT,AMOXICILLIN & CLAVULANIC ACID,Antibiotics,500mg + 125mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,18,6,3,pcs,Eskayef,1,1
+117,1373,BONFLEX TAB 40S,BONFLEX,GLUCOSAMINE 250 MG AND CHONDROITIN SULFATE SODIUM 200 MG,Musculo Skeletal Products,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,40,10,4,pcs,Eskayef,1,1
+118,1855,CARIDOL 250MG TAB 30S,CARIDOL,CARISOPRODOL,Pain Killer,250mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,10,3,pcs,Eskayef,1,1
+119,1823,CLIX 500MG TAB 6S,CLIX,CLARITHROMYCIN,Antibiotics,500mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,6,6,1,pcs,Eskayef,1,1
+120,1632,ETORIX 120MG TAB 30S,ETORIX,ETORICOXIB,Pain Killers,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,10,3,pcs,Eskayef,1,1
+121,1633,ETORIX 60MG TAB 50S,ETORIX,ETORICOXIB,Pain Killers,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,50,10,5,pcs,Eskayef,1,1
+122,1634,ETORIX 90MG TAB 40S,ETORIX,ETORICOXIB,Pain Killers,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,40,10,4,pcs,Eskayef,1,1
+123,1368,FENOBAC 10MG TAB 30S,FENOBAC,BACLOFEN,Musculo Skeletal Products,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,10,3,pcs,Eskayef,1,1
+124,1389,FENOBAC 5MG TAB 50S,FENOBAC,BACLOFEN,Musculo Skeletal Products,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,50,10,5,pcs,Eskayef,1,1
+125,1576,FLUCLOXIN 500MG CAP 40S,FLUCLOXIN,FLUCLOXACILLIN,Antibiotics,NULL,Capsule,3119,Mr. A. K. M. Nawajesh Hossain,40,4,10,pcs,Eskayef,1,1
+126,1718,FLUCLOXIN 500MG IM IV INJ,FLUCLOXIN,FLUCLOXACILLIN SODIUM 500MG IM/IV INJECTION,Antibiotics,500mg,Injection,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,ml,Eskayef,1,1
+127,1008,FLUCLOXIN CAP 250MG 100S,FLUCLOXIN,FLUCLOXACILLIN,Antibiotics,0,Capsule,3119,Mr. A. K. M. Nawajesh Hossain,100,10,10,pcs,Eskayef,1,1
+128,1009,FLUCLOXIN SUS 100ML,FLUCLOXIN,FLUCLOXACILLIN,Antibiotics,0,Dry Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+129,1484,KETONIC 10MG TAB 30S,KETONIC,KETOROLAC TROMETHAMINE,Pain Killers,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,10,3,pcs,Eskayef,1,1
+130,1405,KETONIC 30 IM IV INJ 1S,KETONIC,KETOROLAC TROMETHAMINE,Pain Killers,0,Injection,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,ml,Eskayef,1,1
+131,1402,KETONIC 60 IM IV INJ 1S,KETONIC,KETOROLAC TROMETHAMINE,Pain Killers,0,Injection,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,ml,Eskayef,1,1
+132,1411,LEVOMAX 500MG TAB 20S,LEVOMAX,LEVOFLOXACIN,Antibiotics,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,20,10,2,pcs,Eskayef,1,1
+133,1413,LEVOMAX 750MG TAB 10S,LEVOMAX,LEVOFLOXACIN,Antibiotics,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,10,10,1,pcs,Eskayef,1,1
+134,1431,LINDAMAX 150MG CAP 30S,LINDAMAX,CLINDAMYCIN HYDROCHLORIDE,Antibiotics,0,Capsule,3119,Mr. A. K. M. Nawajesh Hossain,30,6,5,pcs,Eskayef,1,1
+135,1512,LINDAMAX 25ML LOTION,LINDAMAX,CLINDAMYCIN HYDROCHLORIDE,Antibiotics,0,Lotion,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,ml,Eskayef,1,1
+136,1432,LINDAMAX 300MG CAP 30S,LINDAMAX,CLINDAMYCIN HYDROCHLORIDE,Antibiotics,0,Capsule,3119,Mr. A. K. M. Nawajesh Hossain,30,6,5,pcs,Eskayef,1,1
+137,1545,LINDAMAX PLUS 10GM GEL,LINDAMAX,CLINDAMYCIN HYDROCHLORIDE,Antibiotics,0,Gel,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+138,1789,NABUMET 500MG FC TAB 30S,NABUMET,NABUMETONE,Pain Killers,500 mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,10,3,pcs,Eskayef,1,1
+139,1790,NABUMET 750MG FC TAB 24S,NABUMET,NABUMETONE,Pain Killers,750mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,24,8,3,pcs,Eskayef,1,1
+140,1260,NAPROX 15GM GEL,NAPROX,NAPROXEN,Pain Killer,0,Gel,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+141,1073,NAPROX 500MG TAB 50S,NAPROX,NAPROXEN,Pain Killer,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,50,10,5,pcs,Eskayef,1,1
+142,1509,NAPROX PLUS 375MG TAB 30S,NAPROX,NAPROXEN + ESOMEPRAZOLE,Pain Killer,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,10,3,pcs,Eskayef,1,1
+143,1838,NAPROX PLUS 500MG TAB 40S,NAPROX,NAPROXEN + ESOMEPRAZOLE,Pain Killer,Naproxen 500mg + Eso,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,40,10,4,pcs,Eskayef,1,1
+144,1241,NAPROX SUS 50ML,NAPROX,NAPROXEN,Pain Killer,0,Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+145,1014,NAPROX TAB 250MG 50S,NAPROX,NAPROXEN,Pain Killer,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,50,10,5,pcs,Eskayef,1,1
+146,1756,OSTICARE FC TAB CONTAINER 30S,OSTICARE,DIACEREIN + GLUCOSAMINE,Musculo Skeletal Products,50mg + 750mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,30,1,pcs,Eskayef,1,1
+147,1644,OSTICARE TAB 30S,OSTICARE,DIACEREIN 50MG + GLUCOSAMINE SULFATE 750MG,Musculo Skeletal Products,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,6,5,pcs,Eskayef,1,1
+148,1412,PAINO 100MG TAB 100S,PAINO,ACECLOFENAC,Pain Killers,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,100,10,10,pcs,Eskayef,1,1
+149,1824,PARIX 40MG LYOPHILIZED POWDER FOR IV IM INJ 1S,PARIX,PARECOXIB,Pain Killers,40MG,Injection,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,ml,Eskayef,1,1
+150,1536,QUINOX 100ML IV INFUSION,QUINOX,CIPROFLOXACIN,Antibiotics,0,Infusion,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,Infusion,Eskayef,1,1
+151,1388,QUINOX 500 TAB 20S,QUINOX,CIPROFLOXACIN,Antibiotics,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,20,10,2,pcs,Eskayef,1,1
+152,1231,QUINOX 500 TABLET 40S,QUINOX,CIPROFLOXACIN,Antibiotics,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,40,10,4,pcs,Eskayef,1,1
+153,1097,QUINOX 750MG TAB 10S,QUINOX,CIPROFLOXACIN,Antibiotics,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,10,10,1,pcs,Eskayef,1,1
+154,1328,QUINOX DS 60ML PELLETS FOR SUS,QUINOX,CIPROFLOXACIN HCL MONOHYDRATE,Antibiotics,0,Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+155,1020,QUINOX TAB 250MG 30S,QUINOX,CIPROFLOXACIN,Antibiotics,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,10,3,pcs,Eskayef,1,1
+156,1024,SK MOX 250 MG CAP 100S,SK-MOX,AMOXICILLIN,Antibiotics,0,Capsule,3119,Mr. A. K. M. Nawajesh Hossain,100,10,10,pcs,Eskayef,1,1
+157,1787,SK MOX 500MG CAP 50S,SK-MOX,AMOXICILLIN,Antibiotics,500mg,Capsule,3119,Mr. A. K. M. Nawajesh Hossain,50,10,5,pcs,Eskayef,1,1
+158,1144,SK MOX DS DRY SUS 100ML,SK-MOX,AMOXICILLIN,Antibiotics,0,Dry Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+159,1047,SK MOX PD DROP,SK-MOX,AMOXICILLIN,Antibiotics,0,Paediatric Drop,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,ml,Eskayef,1,1
+160,1025,SK MOX SUS 100ML,SK-MOX,AMOXICILLIN,Antibiotics,0,Dry Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+161,1277,SULIDAC 100MG TAB 50S,SULIDAC,SULINDAC,Pain Killers,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,50,10,5,pcs,Eskayef,1,1
+162,1575,SULIDAC 200 TAB 20S,SULIDAC,SULINDAC,Pain Killers,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,20,10,2,pcs,Eskayef,1,1
+163,1654,TENOXIM 20MG TAB 30S,TENOXIM,TENOXICAM,Pain Killers,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,30,10,3,pcs,Eskayef,1,1
+164,1309,TIMOTHY INJ 1GM IM IV 5S,TIMOTHY,TIEMONIUM  METHYLSULFATE,GI Products,0,Injection,3119,Mr. A. K. M. Nawajesh Hossain,5,1,5,ml,Eskayef,1,1
+165,1298,TIMOTHY TAB 50S,TIMOTHY,TIEMONIUM  METHYLSULFATE,GI Products,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,50,10,5,pcs,Eskayef,1,1
+166,1746,TOJAK 5MG TAB 10S,TOJAK,TOFACITINIB CITRATE,Anti Rheumatic Products,5mg,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,10,10,1,pcs,Eskayef,1,1
+167,1371,TOPERIN TAB 50MG 60S,TOPERIN,TOLPERISONE HYDROCHLORIDE,Musculo Skeletal Products,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,60,10,6,pcs,Eskayef,1,1
+168,1629,VISOMOX 400MG FC TAB 10S,VISOMOX,MOXIFLOXACIN,Antibiotics,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,10,10,1,pcs,Eskayef,1,1
+169,1346,VOLMAX SR 100MG CAP 60S,VOLMAX,DICLOFENAC SODIUM,Pain Killers,0,Capsule,3119,Mr. A. K. M. Nawajesh Hossain,60,10,6,pcs,Eskayef,1,1
+170,1854,VOLTAGEL 10GM GEL 10S,VOLTAGEL,DICLOFENAC SODIUM,Pain Killer,10gm,Gel,3119,Mr. A. K. M. Nawajesh Hossain,10,1,10,pcs,Eskayef,1,1
+171,1853,VOLTAGEL 50GM GEL 1S,VOLTAGEL,DICLOFENAC SODIUM,Pain Killer,50gm,Gel,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+172,1268,XENTHOL 30 CREAM 15G,XENTHOL,METHYL SALICYLATE+MENTHOL,Pain Killers,0,Cream,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,ml,Eskayef,1,1
+173,1424,ZITHROX 20ML POWDER FOR SUSPENSION,ZITHROX,AZITHROMYCIN,Antibiotics,0,Dry Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+174,1606,ZITHROX 250MG TAB 12S,ZITHROX,AZITHROMYCIN,Antibiotics,NULL,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,12,6,2,pcs,Eskayef,1,1
+175,1427,ZITHROX 500MG TAB 12S,ZITHROX,AZITHROMYCIN,Antibiotics,0,Tablet,3119,Mr. A. K. M. Nawajesh Hossain,12,6,2,pcs,Eskayef,1,1
+176,1426,ZITHROX 50ML POWDER FOR SUSPENSION,ZITHROX,AZITHROMYCIN,Antibiotics,0,Dry Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+177,1425,ZITHROX DRY SUS 35ML,ZITHROX,AZITHROMYCIN,Antibiotics,0,Dry Suspension,3119,Mr. A. K. M. Nawajesh Hossain,1,1,1,pcs,Eskayef,1,1
+178,1839,BILTIN 10MG ORALLY DISPERSIBLE TAB 30S,BILTIN,BILASTINE,Antihistamine,10mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+179,1827,BILTIN 20MG TAB 30S,BILTIN,BILASTINE,Antihistamines,20mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+180,1794,BREXI 0.5MG FC TAB 30S,BREXI,BREXPIPRAZOLE,Neurological Products,0.5mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+181,1795,BREXI 1MG FC TAB 30S,BREXI,BREXPIPRAZOLE,Neurological Products,1mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+182,1088,CARBAZIN 200MG TAB 50S,CARBAZIN,CARBAMAZEPINE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+183,1344,CLORON 0.5MG TAB 100S,CLORON,CLONAZEPAM,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,100,10,10,pcs,Eskayef,1,1
+184,1554,CLORON 1MG TAB 50S,CLORON,CLONAZEPAM,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+185,1342,CLORON 2MG TAB 50S,CLORON,CLONAZEPAM,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+186,1142,DESODIN TAB 50S,DESODIN,DESLORATADINE,Antihistamines,0,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+187,1773,DINAFEX 120MG FC TAB 40S,DINAFEX,FEXOFENADINE HYDROCHLORIDE,Antihistamines,120mg,Tablet,3740,Mr. Fazal Mohammad Tanim,40,10,4,pcs,Eskayef,1,1
+188,1766,DINAFEX 180MG FC TAB 40S,DINAFEX,FEXOFENADINE HYDROCHLORIDE,Antihistamines,180mg,Tablet,3740,Mr. Fazal Mohammad Tanim,40,10,4,pcs,Eskayef,1,1
+189,1440,DINAFEX 50ML SUS,DINAFEX,FEXOFENADINE HYDROCHLORIDE,Antihistamines,0,Suspension,3740,Mr. Fazal Mohammad Tanim,1,1,1,pcs,Eskayef,1,1
+190,1786,DINAFEX 60MG FC TAB 40S,DINAFEX,FEXOFENADINE,Antihistamines,60mg,Tablet,3740,Mr. Fazal Mohammad Tanim,40,10,4,pcs,Eskayef,1,1
+191,1247,DORENTA SYp 100ML,DORENTA,DIPHENHYDRAMINE HYDROCHLORIDE,Antihistamines,0,Syrup,3740,Mr. Fazal Mohammad Tanim,1,1,1,ml,Eskayef,1,1
+192,1665,HAPYTAB ER TAB 30S,HAPYTAB,DESVENLAFAXINE,Neurological Products,NULL,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+193,1849,LEVETAM 250MG TAB 30S,LEVETAM,LEVETIRACETAM,CNS,250mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+194,1851,LEVETAM 500MG TAB 20S,LEVETAM,LEVETIRACETAM,CNS,500mg,Tablet,3740,Mr. Fazal Mohammad Tanim,20,10,2,pcs,Eskayef,1,1
+195,1850,LEVETAM XR 500MG TAB 20S,LEVETAM,LEVETIRACETAM,CNS,500mg,Tablet,3740,Mr. Fazal Mohammad Tanim,20,10,2,pcs,Eskayef,1,1
+196,1283,LOSITA 10MG TAB 20S,LOSITA,ESCITALOPRAM OXALATE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,20,10,2,pcs,Eskayef,1,1
+197,1336,LOSITA 5MG TAB 40S,LOSITA,ESCITALOPRAM OXALATE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,40,10,4,pcs,Eskayef,1,1
+198,1012,MEBIDAL TAB 200S,MEBIDAL,MEBHYDROLINE,Antihistamines,0,Tablet,3740,Mr. Fazal Mohammad Tanim,200,10,20,pcs,Eskayef,1,1
+199,1422,MILAM 15MG IV IM INJ 1S,MILAM,MIDAZOLAM HCL,Neurological Products,0,Injection,3740,Mr. Fazal Mohammad Tanim,1,1,1,ml,Eskayef,1,1
+200,1519,MILAM 15MG TAB 20S,MILAM,MIDAZOLAM  MALEATE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,20,10,2,pcs,Eskayef,1,1
+201,1508,MILAM 7.5MG TAB 40S,MILAM,MIDAZOLAM  MALEATE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,40,10,4,pcs,Eskayef,1,1
+202,1337,NORIUM 10MG TAB 60S,NORIUM,FLUNARIZINE HYDROCHLORIDE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,60,10,6,pcs,Eskayef,1,1
+203,1170,NORIUM 5MG TAB 100S,NORIUM,FLUNARIZINE HYDROCHLORIDE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,100,10,10,pcs,Eskayef,1,1
+204,1119,ONTIN SYP 60ML,ONTIN,CETIRIZINE HCL,Antihistamines,0,Syrup,3740,Mr. Fazal Mohammad Tanim,1,1,1,ml,Eskayef,1,1
+205,1118,ONTIN TAB 100S,ONTIN,CETIRIZINE HCL,Antihistamines,0,Tablet,3740,Mr. Fazal Mohammad Tanim,100,10,10,pcs,Eskayef,1,1
+206,1067,ORADIN 10MG TAB 100S,ORADIN,LORATADINE,Antihistamines,0,Tablet,3740,Mr. Fazal Mohammad Tanim,100,10,10,pcs,Eskayef,1,1
+207,1082,ORADIN 60ML SUS,ORADIN,LORATADINE,Antihistamines,0,Suspension,3740,Mr. Fazal Mohammad Tanim,1,1,1,pcs,Eskayef,1,1
+208,1294,ORADIN FT TAB 40S,ORADIN,LORATADINE,Antihistamines,0,Tablet,3740,Mr. Fazal Mohammad Tanim,40,10,4,pcs,Eskayef,1,1
+209,1813,PG 25MG CAP 30S,PG,PREGABALIN,Neurological Products,25mg,Capsule,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+210,1507,PG 50MG CAP 30S,PG,PREGABALIN,Neurological Products,0,Capsule,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+211,1481,PG 75MG CAP 30S,PG,PREGABALIN,Neurological Products,0,Capsule,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+212,1802,RAGIL 0.5MG FC TAB 30S,RAGIL,RASAGILINE,Neurological Products,0.5mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+213,1803,RAGIL 1MG FC TAB 30S,RAGIL,RASAGILINE,Neurological Products,1mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+214,1805,REELIFE FC TABLET 56S,REELIFE,AMITRIPTYLINE 12.5MG + CHLORDIAZEPOXIDE 5MG,Neurological Products,Amitriptyline 12.5mg,Tablet,3740,Mr. Fazal Mohammad Tanim,56,14,4,pcs,Eskayef,1,1
+215,1798,REJOY 15MG FC TAB 30S,REJOY,MIRTAZAPINE,Neurological Products,15mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+216,1799,REJOY 30MG FC TAB 30S,REJOY,MIRTAZAPINE,Neurological Products,30mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+217,1797,REJOY 7.5MG FC TAB 30S,REJOY,MIRTAZAPINE,Neurological Products,7.5mg,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+218,1176,RESTOL 3MG TAB 30S,RESTOL,BROMAZEPAM,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+219,1589,RUPADAY 10MG TAB 30S,RUPADAY,RUPATADINE,Antihistamines,NULL,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+220,1154,SENSIT TAB 50S,SENSIT,FLUPENTIXOL HYDROCHLORIDE AND MELITRACEN HYDROCHLORIDE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+221,1222,SENTIX 0.5MG TAB 50S,SENTIX,FLUPENTIXOL HYDROCHLORIDE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+222,1223,SENTIX 1MG TAB 30S,SENTIX,FLUPENTIXOL HYDROCHLORIDE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+223,1505,STIBA 10MG TAB 30S,STIBA,EBASTINE,Antihistamines,0,Tablet,3740,Mr. Fazal Mohammad Tanim,30,10,3,pcs,Eskayef,1,1
+224,1548,STIBA 30ML SYP,STIBA,EBASTINE,Antihistamines,0,Syrup,3740,Mr. Fazal Mohammad Tanim,1,1,1,ml,Eskayef,1,1
+225,1750,SUVO 10MG TAB 10S,SUVO,SUVOREXANT,Neurological Products,10mg,Tablet,3740,Mr. Fazal Mohammad Tanim,10,10,1,pcs,Eskayef,1,1
+226,1034,TELAZINE 1MG TAB 100S,TELAZINE,TRIFLUOPERAZINE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,100,10,10,pcs,Eskayef,1,1
+227,1035,TELAZINE 5MG TAB 100S,TELAZINE,TRIFLUOPERAZINE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,100,10,10,pcs,Eskayef,1,1
+228,1232,TOTI SYP 100ML,TOTI,KETOTIFEN FUMARATE,Antihistamines,0,Syrup,3740,Mr. Fazal Mohammad Tanim,1,1,1,ml,Eskayef,1,1
+229,1233,TOTI TAB 100S,TOTI,KETOTIFEN FUMARATE,Antihistamines,0,Tablet,3740,Mr. Fazal Mohammad Tanim,100,10,10,pcs,Eskayef,1,1
+230,1749,TUFNIL 200MG TAB 50S,TUFNIL,TOLFENAMIC ACID,Neurological Products,200mg,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+231,1147,VINCET TAB 50S,VINCET,VINPOCETINE,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+232,1532,ZEROMIG 0.5MG TAB 50S,ZEROMIG,PIZOTIFEN,Neurological Products,0,Tablet,3740,Mr. Fazal Mohammad Tanim,50,10,5,pcs,Eskayef,1,1
+233,1856,AGLIP 12.5MG FC TAB 20S,AGLIP,ALOGLIPTIN,Antidiabetic Products,12.5mg,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+234,1857,AGLIP 25MG FC TAB 20S,AGLIP,ALOGLIPTIN,Antidiabetic Products,25mg,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+235,1785,ALDORIN 50MG TAB 30S,ALDORIN,EPALRESTAT,Neurological Products,50mg,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+236,1847,AMLEVO 2.5MG TAB 30S,AMLEVO,S-AMLODIPINE,Cardiovascular Products,2.5mg,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+237,1060,ANAPRIL 10MG TAB 100S,ANAPRIL,ENALAPRIL,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,100,10,10,pcs,Eskayef,1,1
+238,1059,ANAPRIL 5MG TAB 100S,ANAPRIL,ENALAPRIL,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,100,10,10,pcs,Eskayef,1,1
+239,1602,CARDIMET 35MG MR TAB,CARDIMET,TRIMETAZIDINE,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+240,1810,CARDOBIS 2.5mg FC TAB 50S,CARDOBIS,BISOPROLOL FUMARATE,Cardiovascular Products,2.5mg,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+241,1569,CARDOBIS 5 FC TAB 30S,CARDOBIS,BISOPROLOL FUMARATE,Cardiovascular Products,30,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+242,1767,CARDOBIS M 2.5 5 FC TAB 30S,CARDOBIS,BISOPROLOL & AMLODIPINE,Cardiovascular Products,Bisoprolol 2.5mg & A,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+243,1586,CARDOBIS PLUS 2.56.25MG TAB 30S,CARDOBIS,BISOPROLOL FUMARATE 2.5MG+HYDROCHLOROTHIAZIDE 6.25MG,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+244,1587,CARDOBIS PLUS 56.25MG TAB 30S,CARDOBIS,BISOPROLOL FUMARATE 5MG+HYDROCHLOROTHIAZIDE 6.25MG,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+245,1102,CARDON 25MG TAB 30S,CARDON,LOSARTAN POTASSIUM,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+246,1354,CARDON 50MG TAB 40S,CARDON,LOSARTAN POTASSIUM,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,40,10,4,pcs,Eskayef,1,1
+247,1687,CARDOPLUS 50MG TAB 40S,CARDOPLUS,LOSARTAN & HYDROCHLOROTHIAZIDE,Cardiovascular Products,50mg + 12.5mg,Tablet,3216,Mr. Md. Tafsir Bashar,40,10,4,pcs,Eskayef,1,1
+248,1506,CRESTON 10MG TAB 20S,CRESTON,ROSUVASTATIN,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+249,1833,CRESTON 20MG TAB 10S,CRESTON,ROSUVASTATIN,Cardiovascular Products,,Tablet,3216,Mr. Md. Tafsir Bashar,10,10,1,pcs,Eskayef,1,1
+250,1553,CRESTON 5MG TAB 30S,CRESTON,ROSUVASTATIN,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+251,1005,DEZIDE TAB 100S,DEZIDE,THIAZIDE+TRIAMTERENE,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,100,10,10,pcs,Eskayef,1,1
+252,1138,DIALON 1MG TAB 50S,DIALON,GLIMEPIRIDE USP,Antidiabetic Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+253,1139,DIALON 2MG TAB 30S,DIALON,GLIMEPIRIDE USP,Antidiabetic Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+254,1651,DIALON 3MG TAB 20S,DIALON,GLIMEPIRIDE USP,Antidiabetic Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+255,1290,DIETIL CAP 10S,DIETIL,ORLISTAT,Antiobesity Products,0,Capsule,3216,Mr. Md. Tafsir Bashar,10,10,1,pcs,Eskayef,1,1
+256,1697,EDENIL 20MG TAB 50S,EDENIL,FUROSEMIDE & SPIRONOLACTONE,Cardiovascular Products,Spironolactone 50mg,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+257,1263,EDENIL 40MG TAB 30S,EDENIL,FUROSEMIDE & SPIRONOLACTONE,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+258,1821,EDENIL 40MG TAB 50S,EDENIL,FUROSEMIDE 40MG + SPIRONOLACTONE 50MG,Cardiovascular Products,Furosemide 40mg + Sp,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+259,1768,EMAZID 10MG FC TAB 20S,EMAZID,EMPAGLIFLOZIN,Antidiabetic Products,10mg,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+260,1769,EMAZID 25MG FC TAB 10S,EMAZID,EMPAGLIFLOZIN,Antidiabetic Products,,Tablet,3216,Mr. Md. Tafsir Bashar,10,10,1,pcs,Eskayef,1,1
+261,1814,EMAZID M FC TAB 20S,EMAZID,METFORMIN 500MG + EMPAGLIFLOZIN 5MG,Antidiabetic Products,Metformin 500mg & Em,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+262,1594,GLIKAZID 30 MR TAB 30S,GLIKAZID,GLICLAZIDE,Antidiabetic Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+263,1573,GLIKAZID 60MG MR TAB 20S,GLIKAZID,GLICLAZIDE,Antidiabetic Products,20,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+264,1684,GLIKAZID 80MG TAB 40S,GLIKAZID,GLICLAZIDE,Antidiabetic Products,80mg,Tablet,3216,Mr. Md. Tafsir Bashar,40,10,4,pcs,Eskayef,1,1
+265,1225,GLUNOR 500MG TAB 50S,GLUNOR,METFORMIN HCL,Antidiabetic Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+266,1226,GLUNOR 850MG TAB 50S,GLUNOR,METFORMIN HCL,Antidiabetic Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+267,1227,GLUNOR XR TAB 50S,GLUNOR,METFORMIN HCL,Antidiabetic Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+268,1840,GTN SUBLINGUAL SPRAY 1S,GTN,NITROGLYCERIN,Antianginal Drugs,400mcg/Spray (200 Sp,Spray,3216,Mr. Md. Tafsir Bashar,1,1,1,ml,Eskayef,1,1
+269,1323,GTN TAB 50S,GTN,NITROGLYCERIN,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+270,1137,IRBES 150MG TAB 30S,IRBES,IRBESARTAN,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+271,1136,IRBES 75MG TAB 50S,IRBES,IRBESARTAN,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+272,1758,LIGAZID 5MG TAB 30S,LIGAZID,LINAGLIPTIN,Antidiabetic Products,5mg,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+273,1657,LIGAZID M 2.5 1000 MG TAB 18S,LIGAZID,LINAGLIPTIN+ METFORMIN,Antidiabetic Products,1000,Tablet,3216,Mr. Md. Tafsir Bashar,18,6,3,pcs,Eskayef,1,1
+274,1755,LIGAZID M 2.5 500MG TAB 30S,LIGAZID,METFORMIN HCL+LINAGLIPTIN,Antidiabetic Products,2.5/500,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+275,1656,LIGAZID M 2.5 850 MG TAB 18S,LIGAZID,LINAGLIPTIN+ METFORMIN,Antidiabetic Products,850,Tablet,3216,Mr. Md. Tafsir Bashar,18,6,3,pcs,Eskayef,1,1
+276,1666,LIPICON 10MG TAB 50S,LIPICON,ATORVASTATIN,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+277,1667,LIPICON 20MG TAB 30S,LIPICON,ATORVASTATIN,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+278,1704,NOCLOG 75MG TAB 40S,NOCLOG,CLOPIDOGREL BISULFATE,Cardiovascular Products,75mg,Tablet,3216,Mr. Md. Tafsir Bashar,40,10,4,pcs,Eskayef,1,1
+279,1683,NOCLOG PLUS 75MG TAB 40S,NOCLOG,CLOPIDOGREL+ASPIRIN,Cardiovascular Products,75mg + 75mg,Tablet,3216,Mr. Md. Tafsir Bashar,40,10,4,pcs,Eskayef,1,1
+280,1381,NOFICON CAP 200MG 40S,NOFICON,FENOFIBRATE,Cardiovascular Products,0,Capsule,3216,Mr. Md. Tafsir Bashar,40,10,4,pcs,Eskayef,1,1
+281,1638,OLMESTA 10MG TAB 30S,OLMESTA,OLMESARTAN MEDOXOMIL,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+282,1639,OLMESTA 20MG TAB 30S,OLMESTA,OLMESARTAN MEDOXOMIL,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+283,1640,OLMESTA 40MG TAB 20S,OLMESTA,OLMESARTAN MEDOXOMIL,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+284,1836,OLMESTA M 5 40 FC TAB 28S,OLMESTA,OLMESARTAN MEDOXOMIL 40MG + AMLODIPINE 5MG,Cardiovascular Products,Olmesartan Medoxomil,Tablet,3216,Mr. Md. Tafsir Bashar,28,14,2,pcs,Eskayef,1,1
+285,1673,OLMESTA M TAB 30S,OLMESTA,OLMESARTAN MEDOXOMIL & AMLODIPINE BESILATE,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+286,1641,OLMESTA PLUS TAB 30S,OLMESTA,OLMESARTAN MEDOXOMIL & HYDROCHLOROTHIAZIDE,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+287,1550,RIVAROX 10MG TAB 20S,RIVAROX,RIVAROXABAN,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+288,1647,RIVAROX 15MG FC TAB 20S,RIVAROX,RIVAROXABAN,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+289,1670,RIVAROX 2.5MG TAB 30S,RIVAROX,RIVAROXABAN,Cardiovascular Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,30,10,3,pcs,Eskayef,1,1
+290,1672,RIVAROX 20MG TAB 20S,RIVAROX,RIVAROXABAN,Cardiovascular Products,20,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+291,1068,SIDOPIN 5MG TAB 50S,SIDOPIN,AMLODIPINE,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+292,1220,SIDOPLUS 25MG TAB 40S,SIDOPIN,AMLODIPINE + ATENOLOL,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,40,10,4,pcs,Eskayef,1,1
+293,1682,SIDOPLUS 50MG TAB 50S,SIDOPIN,AMLODIPINE 5MG + ATENOLOL 50MG,Cardiovascular Products,50mg/5mg,Tablet,3216,Mr. Md. Tafsir Bashar,50,10,5,pcs,Eskayef,1,1
+294,1733,SITAZID M 50 1000 TAB 18S,SITAZID,SITAGLIPTIN 50MG + METFORMIN 1000MG,Antidiabetic Products,50/1000mg,Tablet,3216,Mr. Md. Tafsir Bashar,18,6,3,pcs,Eskayef,1,1
+295,1729,SITAZID M 50 500 TAB 20S,SITAZID,SITAGLIPTIN & METFORMIN,Antidiabetic Products,Sitagliptin 50mg + M,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+296,1358,TOPRESS 50MG TAB 100S,TOPRESS,METOPROLOL TARTRATE,Cardiovascular Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,100,10,10,pcs,Eskayef,1,1
+297,1601,VIGAMET 50500 TAB 20S,VIGAMET,VILDAGLIPTIN + METFORMIN,Antidiabetic Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+298,1624,VIGAMET 50850 TAB 18S,VIGAMET,VILDAGLIPTIN + METFORMIN,Antidiabetic Products,NULL,Tablet,3216,Mr. Md. Tafsir Bashar,18,6,3,pcs,Eskayef,1,1
+299,1547,VIGATIN 50MG TAB 20S,VIGATIN,VILDAGLIPTIN,Antidiabetic Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,20,10,2,pcs,Eskayef,1,1
+300,1513,VIRENTA 0.5MG TAB 10S,VIRENTA,ENTECAVIR,Anti Viral Products,0,Tablet,3216,Mr. Md. Tafsir Bashar,10,10,1,pcs,Eskayef,1,1
+301,1776,ALBEN DS 400MG TAB 50S,ALBEN,ALBENDAZOLE,Anthelmintics,400mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,50,10,5,pcs,Eskayef,1,1
+302,1039,ALBEN DS TAB 100S,ALBEN,ALBENDAZOLE,Anthelmintics,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,100,10,10,pcs,Eskayef,1,1
+303,1101,ALBEN SUS 200MG 10ML,ALBEN,ALBENDAZOLE,Anthelmintics,0,Suspension,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+304,1064,CORTIDER 10GM CREAM TUBE,CORTIDER,HYDROCORTISONE ACETATE,Skin Care Products,0,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+305,1846,DAPCLIN 5% GEL 30GM,DAPCLIN,DAPSONE,Skin Care Products,0.05,Gel,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+306,1845,DAPCLIN 7.5% GEL 30GM,DAPCLIN,DAPSONE,Skin Care Products,0.075,Gel,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+307,1322,EMEZIN PLUS TAB 50S,EMEZIN,MECLIZINE HYDROCHLORIDE & PYRIDOXINE HCL,Anti Emetics,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,50,10,5,pcs,Eskayef,1,1
+308,1817,ESORAL 20MG CAP 100S,ESORAL,ESOMEPRAZOLE,GI Products,20mg,Capsule,3099,Mr. Mohammad Akhter Alam Khan,100,10,10,pcs,Eskayef,1,1
+309,1852,ESORAL 20MG POWDER FOR SUSPENSION 30S,ESORAL,ESOMEPRAZOLE,ANTIULCERANT,20mg,Powder for Suspension,3099,Mr. Mohammad Akhter Alam Khan,30,1,30,pcs,Eskayef,1,1
+310,1663,ESORAL 20MG TAB 112S,ESORAL,ESOMEPRAZOLE,GI Products,20,Tablet,3099,Mr. Mohammad Akhter Alam Khan,112,14,8,pcs,Eskayef,1,1
+311,1469,ESORAL 40MG CAP 30S,ESORAL,ESOMEPRAZOLE,GI Products,0,Capsule,3099,Mr. Mohammad Akhter Alam Khan,30,6,5,pcs,Eskayef,1,1
+312,1832,ESORAL 40MG EC TAB 42S,ESORAL,ESOMEPRAZOLE,GI Products,40mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,42,6,7,pcs,Eskayef,1,1
+313,1429,ESORAL 40MG IV INJ 5ML,ESORAL,ESOMEPRAZOLE,GI Products,0,Injection,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+314,1689,ESORAL MUPS 20MG TAB 50S,ESORAL,ESOMEPRAZOLE MAGNESIUM,GI Products,20mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,50,10,5,pcs,Eskayef,1,1
+315,1739,ESORAL MUPS 40 TABLET,ESORAL,ESOMEPRAZOLE,GI Products,40mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,30,6,5,pcs,Eskayef,1,1
+316,1686,ETRIAM 10GM CREAM,ETRIAM,ECONAZOLE NITRATE + TRIAMCINOLONE ACETONIDE,Anti Fungal Products,Econazole Nitrate 1%,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+317,1428,FACID 10GM BT CREAM,FACID,FUSIDIC ACID & BETAMETHASONE,Skin Care Products,0,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+318,1116,FACID 15GM CREAM,FACID,FUSIDIC ACID,Skin Care Products,0,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+319,1700,FACID 250MG TAB 10S,FACID,SODIUM FUSIDATE,Skin Care Products,250mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,10,10,1,pcs,Eskayef,1,1
+320,1189,FACID HC CREAM 10GM,FACID,FUSIDIC ACID+HYDROCORTISONE,Skin Care Products,0,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+321,1117,FACID OINTMENT 15GM,FACID,SODIUM FUSIDATE,Skin Care Products,0,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+322,1811,FAVIPIR 200MG FC TAB 10S,FAVIPIR,FAVIPIRAVIR,Anti Viral Products,200mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,10,10,1,pcs,Eskayef,1,1
+323,1551,FLUCODER 200MG CAP 10S,FLUCODER,FLUCONAZOLE,Anti Fungal Products,0,Capsule,3099,Mr. Mohammad Akhter Alam Khan,10,10,1,pcs,Eskayef,1,1
+324,1515,FLUCODER 35ML DRY SUS,FLUCODER,FLUCONAZOLE,Anti Fungal Products,0,Dry Suspension,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+325,1065,FLUCODER CAP 150MG 10S,FLUCODER,FLUCONAZOLE,Anti Fungal Products,0,Capsule,3099,Mr. Mohammad Akhter Alam Khan,10,10,1,pcs,Eskayef,1,1
+326,1049,FLUCODER CAP 50MG 30S,FLUCODER,FLUCONAZOLE,Anti Fungal Products,0,Capsule,3099,Mr. Mohammad Akhter Alam Khan,30,10,3,pcs,Eskayef,1,1
+327,1379,GASNIL PD 15ML,GASNIL,SIMETHICONE,GI Products,0,Paediatric Drop,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+328,1511,GASTID 200ML SUS,GASTID,MAGALDRATE + SIMETHICONE,GI Products,0,Suspension,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+329,1523,GASTID CHEWABLE TAB 60S,GASTID,MAGALDRATE + SIMETHICONE,GI Products,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,60,10,6,pcs,Eskayef,1,1
+330,1579,GELID CHEWABLE TAB 50S,GELID,SODIUM ALGINATE & POTASSIUM BICARBONATE,GI Products,NULL,Tablet,3099,Mr. Mohammad Akhter Alam Khan,50,10,5,pcs,Eskayef,1,1
+331,1578,GELID ORAL SUS 200ML,GELID,SODIUM ALGINATE & POTASSIUM BICARBONATE,GI Products,NULL,Suspension,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+332,1809,H QUIN 200MG FC TAB 20S,H-QUIN,HYDROXYCHLOROQUINE,Anti-Malarial,200mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,20,10,2,pcs,Eskayef,1,1
+333,1781,HAIRGROW 2% TOPICAL SOLUTION 60ML,HAIRGROW,MINOXIDIL,Skin Care Products,20mg,Topical Solution,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+334,1782,HAIRGROW 5% TOPICAL SOLUTION 60ML,HAIRGROW,MINOXIDIL,Skin Care Products,50mg,Topical Solution,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+335,1664,ISOBGUL 140GM CONTAINER 1S,ISOBGUL,PSYLLIUM HUSK,GI Products,140,Powder,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+336,1662,ISOBGUL SACHET 20S,ISOBGUL,PSYLLIUM HUSK,GI Products,NULL,Powder,3099,Mr. Mohammad Akhter Alam Khan,20,1,20,pcs,Eskayef,1,1
+337,1829,ITCHNIL 20G CREAM 1S,ITCHNIL,PRAMOXINE HCL 1G+CALAMINE 3G)/100G,Skin Care Products,Pramoxine HCL 1g+Cal,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+338,1815,IVACURE 3MG TAB 30S,IVACURE,IVERMECTIN,Skin Care Products,3mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,30,10,3,pcs,Eskayef,1,1
+339,1816,IVACURE 6MG TAB 10S,IVACURE,IVERMECTIN,Skin Care Products,6mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,10,10,1,pcs,Eskayef,1,1
+340,1751,KEZONA 200MG TAB 30S,KEZONA,KETOCONAZOLE,Anti Fungal Products,200mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,30,10,3,pcs,Eskayef,1,1
+341,1199,LAXITOL SACHET 10S,LAXITOL,LACTITOL MONOHYDRATE,GI Products,0,Powder,3099,Mr. Mohammad Akhter Alam Khan,10,1,10,pcs,Eskayef,1,1
+342,1748,LICNIL 117GM LOTION,LICNIL,IVERMECTIN,Skin Care Products,0.005,Lotion,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+343,1747,LICNIL 60GM LOTION,LICNIL,IVERMECTIN,Skin Care Products,0.005,Lotion,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+344,1806,LOSECTIL 10MG CAP 60S,LOSECTIL,OMEPRAZOLE,GI Products,10mg,Capsule,3099,Mr. Mohammad Akhter Alam Khan,60,10,6,pcs,Eskayef,1,1
+345,1784,LOSECTIL 20MG CAP 120S,LOSECTIL,OMEPRAZOLE,GI Products,20mg,Capsule,3099,Mr. Mohammad Akhter Alam Khan,120,10,12,pcs,Eskayef,1,1
+346,1577,LOSECTIL 20MG PFS 50S,LOSECTIL,OMEPRAZOLE,GI Products,NULL,Suspension,3099,Mr. Mohammad Akhter Alam Khan,50,1,50,pcs,Eskayef,1,1
+347,1574,LOSECTIL 40MG CAP 60S,LOSECTIL,OMEPRAZOLE,GI Products,60,Capsule,3099,Mr. Mohammad Akhter Alam Khan,60,10,6,pcs,Eskayef,1,1
+348,1421,LOSECTIL 40MG IV INJ,LOSECTIL,OMEPRAZOLE,GI Products,NULL,Injection,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+349,1464,LOSECTIL 40MG PFS 30S,LOSECTIL,OMEPRAZOLE,GI Products,0,Suspension,3099,Mr. Mohammad Akhter Alam Khan,30,1,30,pcs,Eskayef,1,1
+350,1716,LOSECTIL MUPS 20MG TAB,LOSECTIL,OMEPRAZOLE,GI Products,20mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,50,10,5,pcs,Eskayef,1,1
+351,1743,LOSECTIL MUPS 40MG TAB,LOSECTIL,OMEPRAZOLE,GI Products,40mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,24,6,4,pcs,Eskayef,1,1
+352,1604,LOSECTIL V 20MG CAP 100S,LOSECTIL,OMEPRAZOLE,GI Products,20mg,Capsule,3099,Mr. Mohammad Akhter Alam Khan,100,10,10,pcs,Eskayef,1,1
+353,1605,LOSECTIL V 40MG CAP 60S,LOSECTIL,OMEPRAZOLE,GI Products,40mg,Capsule,3099,Mr. Mohammad Akhter Alam Khan,60,6,10,pcs,Eskayef,1,1
+354,1765,LULIZOL 10GM CREAM,LULIZOL,LULICONAZOLE,Anti Fungal Products,0.01,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+355,1788,LULIZOL 20GM CREAM,LULIZOL,LULICONAZOLE,Anti Fungal Products,1% Cream,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+356,1535,METCO 100ML IV INFUSION,METCO,METRONIDAZOLE,Anti Protozoal Products,0,Injection,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+357,1013,METCO 400MG TAB 100S,METCO,METRONIDAZOLE,Anti Protozoal Products,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,100,10,10,pcs,Eskayef,1,1
+358,1044,METCO 60ML SUS,METCO,METRONIDAZOLE,Anti Protozoal Products,0,Suspension,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+359,1690,MUPIRON 20GM OINTMENT,MUPIRON,MUPIROCIN,Skin Care Products,2% w/w,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+360,1443,MUPIRON OINTMENT 10GM,MUPIRON,MUPIROCIN,Skin Care Products,0,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+361,1114,MYCOFIN 250MG TAB 10S,MYCOFIN,TERBINAFIN HCL,Skin Care Products,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,10,10,1,pcs,Eskayef,1,1
+362,1152,MYCOFIN CREAM 5GM,MYCOFIN,TERBINAFIN HCL,Skin Care Products,0,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+363,1635,NOSPOT 30GM CREAM,NOSPOT,FLUOCINOLONE ACETONIDE 0.01% + HYDROGUINONE 4% + TRETINOIN 0.05%,Skin Care Products,NULL,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+364,1433,OROGURD ORAL GEL 15GM 1S,OROGURD,MICONAZOLE,Skin Care Products,0,Gel,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+365,1777,PALOSIS 0.25MG IV INJ 3S,PALOSIS,PALONOSETRON,Anti Emetics,0.25mg/5ml,Injection,3099,Mr. Mohammad Akhter Alam Khan,3,3,1,ml,Eskayef,1,1
+366,1275,PANORAL 20MG TAB 40S,PANORAL,PANTOPRAZOLE,GI Products,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,40,10,4,pcs,Eskayef,1,1
+367,1276,PANORAL 40MG TAB 40S,PANORAL,PANTOPRAZOLE,GI Products,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,40,10,4,pcs,Eskayef,1,1
+368,1180,PEROSA 30GM CREAM,PEROSA,PERMETHRIN,Skin Care Products,0,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+369,1831,PROTECTO 1GM TAB 50S,PROTECTO,SUCRALFATE,GI Products,1gm,Tablet,3099,Mr. Mohammad Akhter Alam Khan,50,10,5,pcs,Eskayef,1,1
+370,1830,PROTECTO 500MG TAB 100S,PROTECTO,SUCRALFATE,GI Products,500mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,100,10,10,pcs,Eskayef,1,1
+371,1642,RABIFAST 20 MG TAB 70S,RABIFAST,RABEPRAZOLE,GI Products,NULL,Tablet,3099,Mr. Mohammad Akhter Alam Khan,70,14,5,pcs,Eskayef,1,1
+372,1812,REMIVIR 100MG LYOPHILIZED IV INJ 1S,REMIVIR,REMDESIVIR,Anti Viral Products,100mg,Injection,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+373,1347,RIDON EG 10MG SACHETS 20S,RIDON,DOMPERIDONE,GI Products,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,20,1,20,pcs,Eskayef,1,1
+374,1745,RIDON FAST 10MG TAB,RIDON FAST,DOMPERIDONE,GI Products,10mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,100,10,10,pcs,Eskayef,1,1
+375,1163,RIDON SUS 60 ML,RIDON,DOMPERIDONE,GI Products,0,Suspension,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+376,1099,RIDON TAB 100S,RIDON,DOMPERIDONE,GI Products,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,100,10,10,pcs,Eskayef,1,1
+377,1192,SOFTI OINTMENT 50GM,SOFTI,ZINC OXIDE+VIRGIN CASTOR OIL,Skin Care Products,0,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+378,1444,SOREX ORAL PASTE 5GM,SOREX,AMLEXANOX,Skin Care Products,0,Oral Paste,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+379,1434,TOPIBET CL OINTMENT 10GM TUBE,TOPIBET,BETAMETHASONE VALERATE + CLOTRIMAZOLE,Skin Care Products,0,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+380,1475,TOPICLO 10GM CREAM,TOPICLO,CLOBETASOL PROPIONATE,Skin Care Products,0,Cream,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+381,1476,TOPICLO 10GM OINTMENT,TOPICLO,CLOBETASOL PROPIONATE,Skin Care Products,0,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+382,1835,TOPICLO 30ML SPRAY   1S,TOPICLO,CLOBETASOL PROPIONATE,Topical Corticosteroid,30ml,Spray,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+383,1834,TOPICLO 60ML LOTION   1S,TOPICLO,CLOBETASOL PROPIONATE,Topical Corticosteroid,60ml,Lotion,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+384,1590,TOPICLO NN 15GM OINTMENT 1S,TOPICLO,CLOBETASOL PROPIONATE .05GM + NEOMYCIN SULPHATE .05GM + NYSTATIN 2MG,Skin Care Products,NULL,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+385,1477,TOPICLO S 10GM OINTMENT,TOPICLO,CLOBETASOL 0.05% & SALICYLIC ACID 3%,Skin Care Products,0,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+386,1685,TOPICLO S 6 10GM OINTMENT,TOPICLO,CLOBETASOL PROPIONATE+SALICYCLIC ACID,Skin Care Products,Clobetasol 0.05% + S,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+387,1627,TOPICLO S OINTMENT 1S 20G,TOPICLO,CLOBETASOL 0.05% & SALICYLIC ACID 3%,Skin Care Products,NULL,Ointment,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+388,1279,TOZA SUS 30ML,TOZA,NITAZOXANIDE,Anti Protozoal Products,0,Suspension,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+389,1280,TOZA SUS 60ML,TOZA,NITAZOXANIDE,Anti Protozoal Products,0,Suspension,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,pcs,Eskayef,1,1
+390,1278,TOZA TAB 500MG 12S,TOZA,NITAZOXANIDE,Anti Protozoal Products,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,12,6,2,pcs,Eskayef,1,1
+391,1274,TULAC ORAL SOL 100ML,TULAC,LACTULOSE,GI Products,0,Oral Solution,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+392,1825,VOMEND 40MG CAP 6S,VOMEND,APREPITANT,Anti Emetics,40mg,Capsule,3099,Mr. Mohammad Akhter Alam Khan,6,6,1,pcs,Eskayef,1,1
+393,1335,ZOFRA 50ML ORAL SOL,ZOFRA,ONDANSETRON,Anti Emetics,0,Oral Solution,3099,Mr. Mohammad Akhter Alam Khan,1,1,1,ml,Eskayef,1,1
+394,1404,ZOFRA IM IV INJ 8MG 5S,ZOFRA,ONDANSETRON,Anti Emetics,0,Injection,3099,Mr. Mohammad Akhter Alam Khan,5,5,1,ml,Eskayef,1,1
+395,1471,ZOFRA ODT 4MG TAB 30S,ZOFRA,ONDANSETRON,Anti Emetics,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,30,10,3,pcs,Eskayef,1,1
+396,1472,ZOFRA ODT 8MG TAB 30S,ZOFRA,ONDANSETRON,Anti Emetics,0,Tablet,3099,Mr. Mohammad Akhter Alam Khan,30,10,3,pcs,Eskayef,1,1
+397,1828,ZOFRA ODT 8MG TAB 42S,ZOFRA,ONDANSETRON,Anti-emetics,8mg,Tablet,3099,Mr. Mohammad Akhter Alam Khan,42,14,3,pcs,Eskayef,1,1
+398,1500,AGGRA 100MG TAB 4S,AGGRA,SILDENAFIL,Men's Health Products,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,4,4,1,pcs,Eskayef,1,1
+399,1499,AGGRA 50MG TAB 4S,AGGRA,SILDENAFIL,Men's Health Products,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,4,4,1,pcs,Eskayef,1,1
+400,1488,CAL X SACHET 25S,CAL X,SUCRALOSE,Consumer Products,0,Powder,3125,Mr. Rubaeadul Hasan Lashkar,25,1,25,pcs,Eskayef,1,1
+401,1487,CAL X TAB 100S,CAL X,SUCRALOSE,Consumer Products,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,100,100,1,pcs,Eskayef,1,1
+402,1753,DANAMET 100MG CAP 20S,DANAMET,DANAZOL,Hormones,100mg,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,20,10,2,pcs,Eskayef,1,1
+403,1744,DANAMET 200MG CAP 20S,DANAMET,DANAZOL,Hormones,200mg,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,20,10,2,pcs,Eskayef,1,1
+404,1563,DUMAX 30MG TAB 8S,DUMAX,DAPOXETINE 30MG,Men's Health Products,8,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,8,4,2,pcs,Eskayef,1,1
+405,1564,DUMAX 60MG TAB 4S,DUMAX,DAPOXETINE 60MG,Men's Health Products,4,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,4,4,1,pcs,Eskayef,1,1
+406,1822,ENDOSIS 2MG TAB 10S,ENDOSIS,DIENOGEST,Hormones,2mg,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,10,10,1,pcs,Eskayef,1,1
+407,1466,ETHINOR 5MG TAB 45S,ETHINOR,NORETHISTERONE,Hormones,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,45,15,3,pcs,Eskayef,1,1
+408,1617,FEOFER 100MG 5ML IV INJ 1S,FEOFER,IRON SUCROSE IV INJECTION USP,Haematinics,100mg/5ml,Injection,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+409,1160,FEOFOL CI CAP 30S,FEOFOL,CARBONYL IRON WITH FOLIC ACID,Haematinics,0,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,30,10,3,pcs,Eskayef,1,1
+410,1007,FEOFOL TR CAP 90S,FEOFOL,IRON + FOLIC ACID,Haematinics,0,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,90,10,9,pcs,Eskayef,1,1
+411,1380,FEOZIN TAB 100S,FEOZIN,ZINC+FOLIC ACID,Haematinics,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,100,10,10,pcs,Eskayef,1,1
+412,1417,FIBRINO 500MG CAP 18S,FIBRINO,TRANEXAMIC ACID,Haemostatic Agents,0,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,18,6,3,pcs,Eskayef,1,1
+413,1143,FOLVIT CAP 90S,FOLVIT,IRON+FOLIC ACID+VIT-C+VIT.B COMPLEX,Haematinics,0,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,90,10,9,pcs,Eskayef,1,1
+414,1182,FOLVIT CI CAP 60S,FOLVIT,CARBONYL IRON+FOLIC ACID+VIT-C+VIT.B COMP.,Haematinics,0,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,60,10,6,pcs,Eskayef,1,1
+415,1361,HI C SYP 100ML,HI - C,ASCORBIC ACID,Vitamins And Minerals,0,Syrup,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+416,1659,JUCI DIET 20S,JUCI DIET,ASCORBIC ACID,Vitamins And Minerals,0,Powder,3125,Mr. Rubaeadul Hasan Lashkar,20,1,20,pcs,Eskayef,1,1
+417,1603,JUCI PFS 20S,JUCI,ASCORBIC ACID,Vitamins And Minerals,0,Powder,3125,Mr. Rubaeadul Hasan Lashkar,20,1,20,pcs,Eskayef,1,1
+418,1738,JUCI PLUS CHEWABLE TAB 100S,JUCI,ASCORBIC ACID,Vitamins And Minerals,Ascorbic Acid 180mg,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,100,10,10,pcs,Eskayef,1,1
+419,1528,LENOR 2.5MG TAB 10S,LENOR,LETROZOLE,Hormones,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,10,10,1,pcs,Eskayef,1,1
+420,1848,MAXFER 1GM IV INJ 1S,MAXFER,ELEMENTAL IRON,Anti Anemic,1gm/20ml,Injection,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+421,1791,MAXFER 500MG IV INJ 1S,MAXFER,FERRIC CARBOXYMALTOSE,Haematinics,5gm/100ml,Injection,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+422,1752,MIRAFLO 25MG TAB 10S,MIRAFLO,MIRABEGRON,Urological Products,25mg,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,10,10,1,pcs,Eskayef,1,1
+423,1318,MIXAVIT SYP 100ML,MIXAVIT,VITAMIN B-COMPLEX + VIT.C + VIT.E & COD LIVER OIL,Vitamins And Minerals,0,Syrup,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+424,1204,NEOSALINE 10.25GM 50S,NEOSALINE,SODIUM CHLORIDE + POTASSIUM CHLORIDE + SODIUM CITRATE + GLUCOSE ANHYDROUS,Oral Rehydration,0,Powder,3125,Mr. Rubaeadul Hasan Lashkar,50,1,50,pcs,Eskayef,1,1
+425,1273,NRG 10GM PFS 20S,NRG,GLUCOSE,Oral Rehydration,0,Suspension,3125,Mr. Rubaeadul Hasan Lashkar,20,1,20,pcs,Eskayef,1,1
+426,1445,OSTOCAL D TAB 20S,OSTOCAL,CALCIUM CARBONATE + VITAMIN D3,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,20,20,1,pcs,Eskayef,1,1
+427,1219,OSTOCAL D TAB 500MG 30S,OSTOCAL,CALCIUM CARBONATE + VITAMIN D3,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+428,1676,OSTOCAL DX TAB 36S,OSTOCAL,ELEMENTAL CALCIUM 600MG + VITAMIN D3 400 IU,Vitamins And Minerals,36s,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,36,6,6,pcs,Eskayef,1,1
+429,1613,OSTOCAL DX TAB CONTAINER 30S,OSTOCAL,CALCIUM CARBONATE + VITAMIN D3,Vitamins And Minerals,30s,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+430,1646,OSTOCAL G TAB 40S,OSTOCAL,CALCIUM CARBONATE + VITAMIN D3,Vitamins And Minerals,NULL,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,40,10,4,pcs,Eskayef,1,1
+431,1649,OSTOCAL G TAB CONTAINER 30S,OSTOCAL,CALCIUM CARBONATE  + VITAMIN D3,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+432,1636,OSTOCAL GX TAB 30S,OSTOCAL,CALCIUM CARBONATE FROM CORAL SOURCE + VITAMIN D3,Vitamins And Minerals,30s,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,6,5,pcs,Eskayef,1,1
+433,1534,OSTOCAL JR 250MG TAB 30S,OSTOCAL,CALCIUM CARBONATE,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+434,1338,OSTOCAL M TAB 500MG 30S,OSTOCAL,CALCIUM CARB. + VITAMIN D3 + MAGNESIUM + MANGANESE + ZINC + BORON + COPPER,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+435,1072,OSTOCAL TAB 500MG 100S,OSTOCAL,CALCIUM CARBONATE,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,100,10,10,pcs,Eskayef,1,1
+436,1837,OSTOCAL VITA EFFERVESCENT TAB 10S,OSTOCAL,CALCIUM AND VITAMIN D3,Vitamins & Minerals,600mg and 400 IU,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,10,10,1,pcs,Eskayef,1,1
+437,1761,OSTOVIT D 40000 IU CAP 12S,OSTOVIT D,VITAMIN D3,Vitamins And Minerals,40000 IU,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,12,6,2,pcs,Eskayef,1,1
+438,1441,PROTINEX INFUSION 500ML,PROTINEX,AMINO ACID + D-SORBITOL + ELOCTROLYTES,Iv Nutrition Products,0,Infusion,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,Infusion,Eskayef,1,1
+439,1565,PROTINEX ULTRA 510 IV 500ML INFUSION,PROTINEX,AMINO ACID + DEXTROSE + ELOCTR,Iv Nutrition Products,1,Infusion,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,Infusion,Eskayef,1,1
+440,1124,REOMEN 50MG TAB 20S,REOMEN,CLOMIPHENE CITRATE,Hormones,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,20,5,4,pcs,Eskayef,1,1
+441,1311,SOLBION 3ML IM INJ 10S,SOLBION,"VITAMIN B1, B6 , B12",Vitamins And Minerals,0,Injection,3125,Mr. Rubaeadul Hasan Lashkar,10,5,2,ml,Eskayef,1,1
+442,1345,SOLBION TAB 50S,SOLBION,"VITAMIN B1, B6 , B12",Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,50,10,5,pcs,Eskayef,1,1
+443,1701,SOLBION TAB CONTAINER 30S,SOLBION,"VITAMIN B1, B6 , B12",Vitamins And Minerals,"B1: 100mg, B6: 200mg",Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+444,1029,SOLVIT B TAB 45S,SOLVIT-B,VITAMIN B-COMPLEX,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,45,45,1,pcs,Eskayef,1,1
+445,1030,SOLVIT M TAB 30S,SOLVIT-M,MULTIVITAMIN + MULTIMINERALS,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+446,1031,SOLVITONE SYP 100ML,SOLVITONE,VITAMIN B-COMPLEX,Vitamins And Minerals,0,Syrup,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+447,1179,SOLVITONE SYP 200ML,SOLVITONE,VITAMIN B-COMPLEX,Vitamins And Minerals,0,Syrup,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+448,1498,THYNOR 50MCG TAB 90S,THYNOR,LEVOTHYROXINE SODIUM,Hormones,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,90,10,9,pcs,Eskayef,1,1
+449,1467,TIBONOR 2.5MG TAB 30S,TIBONOR,TIBOLONE,Hormones,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,10,3,pcs,Eskayef,1,1
+450,1571,UROKIT 10 ER TAB 20S,UROKIT,POTASSIUM CITRATE,Urological Products,20,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,20,20,1,pcs,Eskayef,1,1
+451,1595,UROKIT PLUS ORAL SOL 200ML,UROKIT,POTASSIUM CITRATE & CITRIC ACID,Urological Products,NULL,Oral Solution,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+452,1543,UROSIN 0.4MG CAP 30S,UROSIN,TAMSULOSIN  HYDROCHLORIDE,Urological Products,0,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,30,6,5,pcs,Eskayef,1,1
+453,1619,VALENTY 10MG TAB 4S,VALENTY,VARDENAFIL,Men's Health Products,NULL,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,4,4,1,pcs,Eskayef,1,1
+454,1620,VALENTY 20MG TAB 4S,VALENTY,VARDENAFIL,Men's Health Products,NULL,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,4,4,1,pcs,Eskayef,1,1
+455,1778,VITOCAL D EFFERVESCENT TAB 10S,VITOCAL,ELEMENTAL CALCIUM 600MG + VITAMIN D3 400 IU,Vitamins And Minerals,Calcium 600mg + Vita,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,10,10,1,pcs,Eskayef,1,1
+456,1207,VITRUM GOLD TAB 15S,VITRUM,MULTIVITAMIN - MULTIMINERALS,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,15,15,1,pcs,Eskayef,1,1
+457,1190,VITRUM GOLD TAB 30S,VITRUM,MULTIVITAMIN - MULTIMINERALS,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+458,1210,VITRUM SILVER TAB 15S,VITRUM,MULTIVITAMIN - MULTIMINERALS,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,15,15,1,pcs,Eskayef,1,1
+459,1331,VITRUM SILVER TAB 30S,VITRUM,MULTIVITAMIN - MULTIMINERALS,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+460,1691,XINC 150ML SYP,XINC,ZINC SULFATE  MONOHYDRATE USP,Vitamins And Minerals,10mg/5ml,Syrup,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+461,1820,XINC 20MG TAB 100S,XINC,ELEMENTAL ZINC,Vitamins And Minerals,20mg,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,100,10,10,pcs,Eskayef,1,1
+462,1218,XINC 20MG TAB 60S,XINC,ZINC SULFATE,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,60,10,6,pcs,Eskayef,1,1
+463,1240,XINC B SYP 100ML,XINC,ZINC  & VITAMIN B- COMPLEX,Vitamins And Minerals,0,Syrup,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+464,1456,XINC B SYP 200ML,XINC,ZINC  & VITAMIN B- COMPLEX,Vitamins And Minerals,0,Syrup,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+465,1272,XINC B TAB 30S,XINC,ZINC  & VITAMIN B- COMPLEX,Vitamins And Minerals,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,30,1,pcs,Eskayef,1,1
+466,1702,XINC OT 10MG TAB 30S,XINC,ELEMENTAL ZINC,Vitamins And Minerals,10mg,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,30,10,3,pcs,Eskayef,1,1
+467,1087,XINC SYP 100 ML,XINC,ZINC  SULFATE,Vitamins And Minerals,0,Syrup,3125,Mr. Rubaeadul Hasan Lashkar,1,1,1,ml,Eskayef,1,1
+468,1284,ZATRAL 10MG TAB 24S,ZATRAL,ALFUZOSIN HYDROCHLORIDE,Urological Products,0,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,24,4,6,pcs,Eskayef,1,1
+469,1725,ZEEFOL AZ FC TAB 60S,ZEEFOL AZ,ELEMENTAL IRON + FOLIC ACID + ELEMENTAL ZINC,Haematinics,Iron 48mg (Elemental,Tablet,3125,Mr. Rubaeadul Hasan Lashkar,60,10,6,pcs,Eskayef,1,1
+470,1631,ZEEFOL CI CAP 90S,ZEEFOL,CARBONYL IRON+FOLIC ACID+ZINC,Haematinics,NULL,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,90,15,6,pcs,Eskayef,1,1
+471,1705,ZEEFOL M TAB 100S,ZEEFOL,ELEMENTAL IRON + ELEMENTAL ZINC + FOLIC ACID,Haematinics,"Elemental Iron 47mg,",Tablet,3125,Mr. Rubaeadul Hasan Lashkar,100,10,10,pcs,Eskayef,1,1
+472,1187,ZILVIT CAP 60S,ZILVIT,CARBONYL IRON+FOLIC ACID+ZINC+VIT.B & ASCORBIC ACID,Haematinics,0,Capsule,3125,Mr. Rubaeadul Hasan Lashkar,60,15,4,pcs,Eskayef,1,1
